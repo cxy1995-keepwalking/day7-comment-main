@@ -1,0 +1,18 @@
+# Auto detect text files and perform LF normalization
+1、 java中有3种注释
+          a 单行注释    //
+		  b 多行注释    /*
+		                     多行注释 
+                        */
+          c 可被javadoc命令识别后提取并生成帮助文档的注释  /** 	
+                                                           * 	javadoc注释
+                                                           */														   
+2、 public class  test{          //大括号包围的是类体
+		public static void main(String[] args){   //大括号包围的是方法体
+		  
+		
+		}
+    }	
+ public 是访问修饰符，public  class 有且只有一个，但是class可以有多个
+ main是方法，sun公司规定，方法入口只有一个，为 public static void main（String[] args）{} 格式
+* text=auto
